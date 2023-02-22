@@ -5,3 +5,7 @@
 .project-section {
   margin: 2rem 0;
 }
+
+main h2 {
+  text-decoration: underline;
+}

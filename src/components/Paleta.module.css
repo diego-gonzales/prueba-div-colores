@@ -5,9 +5,9 @@
 
 .cssFileName {
   font-style: italic;
-  font-weight: bold;
+  margin-bottom: 0.5rem;
 }
 
 .containerPaleta {
-  margin: 1rem 0;
+  margin: 1.8rem 0;
 }
