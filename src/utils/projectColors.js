@@ -2640,3 +2640,620 @@ export const colorsPluginsBundleCss = [
     quantity: 88
   }
 ];
+
+export const colorsResponsiveCss = [
+  {
+    color: '#b3aaaa',
+    quantity: 5
+  },
+  {
+    color: '#f1ebeb',
+    quantity: 1
+  },
+  {
+    color: '#fffbfb',
+    quantity: 5
+  },
+  {
+    color: '#303641',
+    quantity: 5
+  },
+  {
+    color: '#fff',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.07)',
+    quantity: 1
+  }
+];
+
+export const colorsSlickNavMinCss = [
+  {
+    color: '#fff',
+    quantity: 6
+  },
+  {
+    color: 'rgba(255,255,255,.75)',
+    quantity: 1
+  },
+  {
+    color: '#ccc',
+    quantity: 2
+  },
+  {
+    color: '#4c4c4c',
+    quantity: 1
+  },
+  {
+    color: '#222',
+    quantity: 2
+  },
+  {
+    color: '#000',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0,0,0,.25)',
+    quantity: 3
+  }
+];
+
+// TODO: Llenar
+export const colorsStyleBundleCss = [];
+
+export const colorsStylesCss = [
+  {
+    color: '#272626',
+    quantity: 1
+  },
+  {
+    color: '#8c8a8a',
+    quantity: 1
+  },
+  {
+    color: '#b3b2b2',
+    quantity: 1
+  },
+  {
+    color: '#bdbcbc',
+    quantity: 1
+  },
+  {
+    color: '#3e3b3b',
+    quantity: 2
+  },
+  {
+    color: '#6d6969',
+    quantity: 1
+  },
+  {
+    color: '#888383',
+    quantity: 1
+  },
+  {
+    color: 'rgba(99, 96, 96, 0.03)',
+    quantity: 1
+  },
+  {
+    color: '#dad7d7',
+    quantity: 4
+  },
+  {
+    color: '#b1a7a7',
+    quantity: 4
+  },
+  {
+    color: '#b3aaaa',
+    quantity: 1
+  },
+  {
+    color: '#efebeb',
+    quantity: 1
+  },
+  {
+    color: '#f5f2f2',
+    quantity: 1
+  },
+  {
+    color: '#f1ebeb',
+    quantity: 1
+  },
+  {
+    color: 'rgb(243, 140, 140)',
+    quantity: 2
+  },
+  {
+    color: '#fb5757',
+    quantity: 1
+  },
+  {
+    color: 'rgba(251, 87, 87, 0.38)',
+    quantity: 1
+  },
+  {
+    color: '#ff0e0e',
+    quantity: 1
+  },
+  {
+    color: 'rgb(216, 88, 79)',
+    quantity: 2
+  },
+  {
+    color: '#f9efd2',
+    quantity: 1
+  },
+  {
+    color: '#d6a20c',
+    quantity: 2
+  },
+  {
+    color: 'rgb(230, 190, 63)',
+    quantity: 2
+  },
+  {
+    color: '#F7CB3F',
+    quantity: 1
+  },
+  {
+    color: '#f7cb3f',
+    quantity: 1
+  },
+  {
+    color: 'rgb(254, 208, 63)',
+    quantity: 2
+  },
+  {
+    color: '#ffd615',
+    quantity: 1
+  },
+  {
+    color: '#ffee1d',
+    quantity: 1
+  },
+  {
+    color: '#716f42',
+    quantity: 1
+  },
+  {
+    color: '#f7f14c',
+    quantity: 1
+  },
+  {
+    color: '#fff601',
+    quantity: 1
+  },
+  {
+    color: '#bada55',
+    quantity: 1
+  },
+  {
+    color: '#95b36e',
+    quantity: 1
+  },
+  {
+    color: '#2fd444',
+    quantity: 1
+  },
+  {
+    color: '#4cff63',
+    quantity: 1
+  },
+  {
+    color: '#1bd4a6',
+    quantity: 1
+  },
+  {
+    color: 'rgb(27, 212, 166)',
+    quantity: 2
+  },
+  {
+    color: '#19D0A2',
+    quantity: 1
+  },
+  {
+    color: 'rgb(5, 176, 133)',
+    quantity: 2
+  },
+  {
+    color: '#36b398',
+    quantity: 2
+  },
+  {
+    color: '#cff1ea',
+    quantity: 1
+  },
+  {
+    color: '#08bfc1',
+    quantity: 1
+  },
+  {
+    color: '#313b3d',
+    quantity: 1
+  },
+  {
+    color: '#768387',
+    quantity: 2
+  },
+  {
+    color: '#f5f8f9',
+    quantity: 1
+  },
+  {
+    color: '#f7fafb',
+    quantity: 1
+  },
+  {
+    color: '#d8e3e7',
+    quantity: 1
+  },
+  {
+    color: '#F3F8FB',
+    quantity: 4
+  },
+  {
+    color: '#f3f8fb',
+    quantity: 2
+  },
+  {
+    color: '#e3e6e8',
+    quantity: 1
+  },
+  {
+    color: '#EFF3F6',
+    quantity: 1
+  },
+  {
+    color: '#eff3f6',
+    quantity: 1
+  },
+  {
+    color: 'rgba(120, 130, 140, 0.13)',
+    quantity: 4
+  },
+  {
+    color: '#f8f9fa',
+    quantity: 1
+  },
+  {
+    color: '#4796ea',
+    quantity: 2
+  },
+  {
+    color: '#c8e1fb',
+    quantity: 1
+  },
+  {
+    color: '#007BFF',
+    quantity: 6
+  },
+  {
+    color: '#585b5f',
+    quantity: 1
+  },
+  {
+    color: '#2c71da',
+    quantity: 1
+  },
+  {
+    color: 'rgba(44, 113, 218, 0.38)',
+    quantity: 2
+  },
+  {
+    color: '#343942',
+    quantity: 1
+  },
+  {
+    color: '#303641',
+    quantity: 2
+  },
+  {
+    color: '#343e50',
+    quantity: 1
+  },
+  {
+    color: '#8d97ad',
+    quantity: 2
+  },
+  {
+    color: 'rgb(108, 143, 234)',
+    quantity: 2
+  },
+  {
+    color: '#2c3cb7',
+    quantity: 1
+  },
+  {
+    color: '#5c6df4',
+    quantity: 1
+  },
+  {
+    color: '#2942fa',
+    quantity: 1
+  },
+  {
+    color: '#787bd8',
+    quantity: 1
+  },
+  {
+    color: '#686cdc',
+    quantity: 1
+  },
+  {
+    color: '#6569dc',
+    quantity: 4
+  },
+  {
+    color: '#656aea',
+    quantity: 1
+  },
+  {
+    color: 'rgb(77, 77, 253)',
+    quantity: 2
+  },
+  {
+    color: '#fcfcff',
+    quantity: 1
+  },
+  {
+    color: '#3c34ab',
+    quantity: 1
+  },
+  {
+    color: '#6d65dc',
+    quantity: 1
+  },
+  {
+    color: '#c9c6f5',
+    quantity: 1
+  },
+  {
+    color: '#9f98f7',
+    quantity: 1
+  },
+  {
+    color: '#4336fb',
+    quantity: 6
+  },
+  {
+    color: 'rgba(67, 54, 251, 0.05)',
+    quantity: 1
+  },
+  {
+    color: '#7e74ff',
+    quantity: 2
+  },
+  {
+    color: '#e4e2f5',
+    quantity: 1
+  },
+  {
+    color: '#8a7fe2',
+    quantity: 1
+  },
+  {
+    color: '#8063f5',
+    quantity: 2
+  },
+  {
+    color: '#805ff5',
+    quantity: 2
+  },
+  {
+    color: '#8160f6',
+    quantity: 2
+  },
+  {
+    color: '#574494',
+    quantity: 1
+  },
+  {
+    color: '#815ef6',
+    quantity: 1
+  },
+  {
+    color: '#6a56a5',
+    quantity: 1
+  },
+  {
+    color: '#8e66f7',
+    quantity: 1
+  },
+  {
+    color: '#8255f7',
+    quantity: 1
+  },
+  {
+    color: '#8553fa',
+    quantity: 1
+  },
+  {
+    color: '#8655FC',
+    quantity: 2
+  },
+  {
+    color: '#f3eeff',
+    quantity: 1
+  },
+  {
+    color: '#843df9',
+    quantity: 1
+  },
+  {
+    color: '#853bfa',
+    quantity: 2
+  },
+  {
+    color: '#731ffd',
+    quantity: 1
+  },
+  {
+    color: 'rgba(131, 23, 254, 0.06)',
+    quantity: 1
+  },
+  {
+    color: '#7801ff',
+    quantity: 1
+  },
+  {
+    color: '#8914fe',
+    quantity: 4
+  },
+  {
+    color: '#e6cdff',
+    quantity: 1
+  },
+  {
+    color: '#f96776',
+    quantity: 2
+  },
+  {
+    color: '#ffdde0',
+    quantity: 1
+  },
+  {
+    color: '#fff',
+    quantity: 52
+  },
+  {
+    color: '#ffffff',
+    quantity: 5
+  },
+  {
+    color: '#f9f9f9',
+    quantity: 5
+  },
+  {
+    color: '#ececec',
+    quantity: 1
+  },
+  {
+    color: '#e6e6e6',
+    quantity: 1
+  },
+  {
+    color: '#e1e1e1',
+    quantity: 4
+  },
+  {
+    color: '#b0b0b0',
+    quantity: 1
+  },
+  {
+    color: 'rgba(170, 170, 170, .3)',
+    quantity: 1
+  },
+  {
+    color: '#999',
+    quantity: 2
+  },
+  {
+    color: '#8a8a8a',
+    quantity: 1
+  },
+  {
+    color: '#777',
+    quantity: 1
+  },
+  {
+    color: '#686868',
+    quantity: 1
+  },
+  {
+    color: '#666',
+    quantity: 4
+  },
+  {
+    color: '#676666',
+    quantity: 1
+  },
+  {
+    color: '#616161',
+    quantity: 1
+  },
+  {
+    color: '#565656',
+    quantity: 9
+  },
+  {
+    color: '#555',
+    quantity: 4
+  },
+  {
+    color: '#4e4e4e',
+    quantity: 2
+  },
+  {
+    color: '#4d4d4d',
+    quantity: 3
+  },
+  {
+    color: '#444',
+    quantity: 20
+  },
+  {
+    color: '#333',
+    quantity: 3
+  },
+  {
+    color: '#272727',
+    quantity: 1
+  },
+  {
+    color: 'rgba(27, 27, 27, 0.38)',
+    quantity: 1
+  },
+  {
+    color: '#000000',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, .125)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.12)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.1)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.07)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.05)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.03)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.02)',
+    quantity: 1
+  },
+  {
+    color: 'transparent',
+    quantity: 7
+  }
+];
+
+export const colorsThemifyIconsCss = [];
+
+export const colorsTypographyCss = [
+  {
+    color: '#853BFA',
+    quantity: 1
+  },
+  {
+    color: '#fff',
+    quantity: 3
+  },
+  {
+    color: '#444',
+    quantity: 1
+  }
+];

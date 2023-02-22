@@ -1,5 +1,5 @@
 import "./App.css";
-import { colorsBootstrapMinCss, colorsDatatablesBundleCss, colorsDefaultCss, colorsFontAwesomeMinCss, colorsFontsCss, colorsMetisMenuCss, colorsOwnCarouselMinCss, colorsPluginsBundleCss } from "./utils/projectColors";
+import { colorsBootstrapMinCss, colorsDatatablesBundleCss, colorsDefaultCss, colorsFontAwesomeMinCss, colorsFontsCss, colorsMetisMenuCss, colorsOwnCarouselMinCss, colorsPluginsBundleCss, colorsResponsiveCss, colorsSlickNavMinCss, colorsStyleBundleCss, colorsStylesCss, colorsThemifyIconsCss, colorsTypographyCss } from "./utils/projectColors";
 import Paleta from "./components/Paleta";
 
 function App() {
@@ -19,6 +19,12 @@ function App() {
           <Paleta fileCssName="metisMenu.css" colors={colorsMetisMenuCss} />
           <Paleta fileCssName="own.carousel.min.css" colors={colorsOwnCarouselMinCss} />
           <Paleta fileCssName="plugins.bundle.css" colors={colorsPluginsBundleCss} />
+          <Paleta fileCssName="responsive.css" colors={colorsResponsiveCss} />
+          <Paleta fileCssName="slicknav.min.css" colors={colorsSlickNavMinCss} />
+          <Paleta fileCssName="style.bundle.css" colors={colorsStyleBundleCss} />
+          <Paleta fileCssName="styles.css" colors={colorsStylesCss} />
+          <Paleta fileCssName="themify-icons.css" colors={colorsThemifyIconsCss} />
+          <Paleta fileCssName="typography.css" colors={colorsTypographyCss} />
         </section>
         <section className="project-section">
           <h2>TSF</h2>
