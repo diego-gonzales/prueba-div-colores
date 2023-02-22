@@ -818,3 +818,1825 @@ export const colorsDefaultCss = [
     quantity: 2
   }
 ];
+
+export const colorsFontAwesomeMinCss = [
+  {
+    color: '#fff',
+    quantity: 1
+  },
+  {
+    color: '#eee',
+    quantity: 1
+  }
+];
+
+export const colorsFontsCss = [
+  {
+    color: '#e9e6e6',
+    quantity: 3
+  },
+  {
+    color: '#c77777',
+    quantity: 2
+  },
+  {
+    color: '#D39494',
+    quantity: 2
+  },
+  {
+    color: '#d39494',
+    quantity: 2
+  },
+  {
+    color: 'rgba(211, 148, 148, 0.5)',
+    quantity: 3
+  },
+  {
+    color: 'rgba(211, 148, 148, 0.3)',
+    quantity: 3
+  },
+  {
+    color: '#f2dede',
+    quantity: 1
+  },
+  {
+    color: '#a92222',
+    quantity: 2
+  },
+  {
+    color: '#be2626',
+    quantity: 4
+  },
+  {
+    color: '#f27474',
+    quantity: 7
+  },
+  {
+    color: '#e60000',
+    quantity: 2
+  },
+  {
+    color: '#a94442',
+    quantity: 2
+  },
+  {
+    color: '#b94a48',
+    quantity: 1
+  },
+  {
+    color: '#d9534f',
+    quantity: 1
+  },
+  {
+    color: '#BD362F',
+    quantity: 1
+  },
+  {
+    color: '#f8bb86',
+    quantity: 1
+  },
+  {
+    color: '#facea8',
+    quantity: 1
+  },
+  {
+    color: '#E8E7E6',
+    quantity: 1
+  },
+  {
+    color: '#f0ad4e',
+    quantity: 1
+  },
+  {
+    color: '#F89406',
+    quantity: 1
+  },
+  {
+    color: '#fdd49a',
+    quantity: 2
+  },
+  {
+    color: '#f90',
+    quantity: 2
+  },
+  {
+    color: '#8a6d3b',
+    quantity: 2
+  },
+  {
+    color: '#815608',
+    quantity: 2
+  },
+  {
+    color: '#bf800c',
+    quantity: 2
+  },
+  {
+    color: '#f1a417',
+    quantity: 2
+  },
+  {
+    color: '#f2aa25',
+    quantity: 1
+  },
+  {
+    color: '#f4b747',
+    quantity: 3
+  },
+  {
+    color: '#f7ca77',
+    quantity: 3
+  },
+  {
+    color: '#b37400',
+    quantity: 2
+  },
+  {
+    color: '#f59e00',
+    quantity: 2
+  },
+  {
+    color: '#ffb733',
+    quantity: 2
+  },
+  {
+    color: '#ffbc42',
+    quantity: 1
+  },
+  {
+    color: '#ffc966',
+    quantity: 4
+  },
+  {
+    color: '#ffdb99',
+    quantity: 3
+  },
+  {
+    color: '#fde19a',
+    quantity: 1
+  },
+  {
+    color: '#fcf8e3',
+    quantity: 1
+  },
+  {
+    color: '#fbf069',
+    quantity: 1
+  },
+  {
+    color: '#fbed50',
+    quantity: 1
+  },
+  {
+    color: '#fdf59a',
+    quantity: 5
+  },
+  {
+    color: '#f8f8f2',
+    quantity: 1
+  },
+  {
+    color: '#ff0',
+    quantity: 2
+  },
+  {
+    color: '#23241f',
+    quantity: 1
+  },
+  {
+    color: '#a5dc86',
+    quantity: 3
+  },
+  {
+    color: 'rgba(165, 220, 134, 0.3)',
+    quantity: 1
+  },
+  {
+    color: '#dff0d8',
+    quantity: 1
+  },
+  {
+    color: '#51A351',
+    quantity: 1
+  },
+  {
+    color: '#5cb85c',
+    quantity: 1
+  },
+  {
+    color: '#008a00',
+    quantity: 2
+  },
+  {
+    color: '#3c763d',
+    quantity: 2
+  },
+  {
+    color: '#20b426',
+    quantity: 5
+  },
+  {
+    color: '#18891d',
+    quantity: 2
+  },
+  {
+    color: '#28a745',
+    quantity: 1
+  },
+  {
+    color: '#3FB8AF',
+    quantity: 1
+  },
+  {
+    color: '#D3E2E2',
+    quantity: 1
+  },
+  {
+    color: '#d3e2e2',
+    quantity: 4
+  },
+  {
+    color: '#2F96B4',
+    quantity: 1
+  },
+  {
+    color: '#5bc0de',
+    quantity: 1
+  },
+  {
+    color: '#add8e6',
+    quantity: 2
+  },
+  {
+    color: '#9de0f6',
+    quantity: 1
+  },
+  {
+    color: '#3fc3ee',
+    quantity: 1
+  },
+  {
+    color: 'deepskyblue',
+    quantity: 1
+  },
+  {
+    color: '#87adbd',
+    quantity: 1
+  },
+  {
+    color: '#c9dae1',
+    quantity: 1
+  },
+  {
+    color: '#ebf4f8',
+    quantity: 1
+  },
+  {
+    color: '#c4e6f5',
+    quantity: 2
+  },
+  {
+    color: '#b4dbed',
+    quantity: 1
+  },
+  {
+    color: 'rgba(8, 157, 227, 0.7)',
+    quantity: 1
+  },
+  {
+    color: '#4b88a6',
+    quantity: 2
+  },
+  {
+    color: '#73a6c0',
+    quantity: 2
+  },
+  {
+    color: '#9dc1d3',
+    quantity: 2
+  },
+  {
+    color: '#a8c8d8',
+    quantity: 1
+  },
+  {
+    color: '#e4eef3',
+    quantity: 3
+  },
+  {
+    color: '#31708f',
+    quantity: 2
+  },
+  {
+    color: '#298fc2',
+    quantity: 2
+  },
+  {
+    color: '#85c5e5',
+    quantity: 2
+  },
+  {
+    color: '#91cbe8',
+    quantity: 1
+  },
+  {
+    color: '#afd9ee',
+    quantity: 4
+  },
+  {
+    color: '#d9edf7',
+    quantity: 4
+  },
+  {
+    color: '#52addb',
+    quantity: 2
+  },
+  {
+    color: '#85c8ea',
+    quantity: 2
+  },
+  {
+    color: '#0088cc',
+    quantity: 4
+  },
+  {
+    color: '#08c',
+    quantity: 1
+  },
+  {
+    color: '#c1d7e3',
+    quantity: 4
+  },
+  {
+    color: '#098ddf',
+    quantity: 1
+  },
+  {
+    color: '#87cefa',
+    quantity: 1
+  },
+  {
+    color: '#122b40',
+    quantity: 4
+  },
+  {
+    color: '#66afe9',
+    quantity: 2
+  },
+  {
+    color: 'rgba(102, 175, 233, 0.6)',
+    quantity: 4
+  },
+  {
+    color: '#2e6da4',
+    quantity: 4
+  },
+  {
+    color: '#3071a9',
+    quantity: 2
+  },
+  {
+    color: '#337ab7',
+    quantity: 5
+  },
+  {
+    color: '#357ebd',
+    quantity: 1
+  },
+  {
+    color: '#428bca',
+    quantity: 9
+  },
+  {
+    color: '#92bce0',
+    quantity: 1
+  },
+  {
+    color: 'rgba(66, 139, 202, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#204d74',
+    quantity: 6
+  },
+  {
+    color: '#286090',
+    quantity: 7
+  },
+  {
+    color: '#b9d4ec',
+    quantity: 2
+  },
+  {
+    color: '#006dcc',
+    quantity: 2
+  },
+  {
+    color: '#3085d6',
+    quantity: 4
+  },
+  {
+    color: '#B4B9BE',
+    quantity: 2
+  },
+  {
+    color: '#919BA5',
+    quantity: 2
+  },
+  {
+    color: '#919ba5',
+    quantity: 2
+  },
+  {
+    color: 'rgba(50, 100, 150, 0.4)',
+    quantity: 5
+  },
+  {
+    color: '#06c',
+    quantity: 6
+  },
+  {
+    color: '#dee4ec',
+    quantity: 1
+  },
+  {
+    color: 'rgba(222, 228, 236, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#006cfa',
+    quantity: 4
+  },
+  {
+    color: '#c3c7cd',
+    quantity: 1
+  },
+  {
+    color: '#939ba7',
+    quantity: 1
+  },
+  {
+    color: '#cbcfd5',
+    quantity: 1
+  },
+  {
+    color: '#e0e4ea',
+    quantity: 2
+  },
+  {
+    color: '#f0f6ff',
+    quantity: 2
+  },
+  {
+    color: '#3875d7',
+    quantity: 1
+  },
+  {
+    color: '#5897fb',
+    quantity: 6
+  },
+  {
+    color: '#e1e4e9',
+    quantity: 4
+  },
+  {
+    color: '#7685a2',
+    quantity: 2
+  },
+  {
+    color: '#a3adc1',
+    quantity: 5
+  },
+  {
+    color: '#d1d6e0',
+    quantity: 4
+  },
+  {
+    color: 'rgba(209, 214, 224, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#002a80',
+    quantity: 2
+  },
+  {
+    color: '#003399',
+    quantity: 2
+  },
+  {
+    color: '#0044cc',
+    quantity: 10
+  },
+  {
+    color: '#48536a',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 255, 0.3)',
+    quantity: 2
+  },
+  {
+    color: '#93f',
+    quantity: 2
+  },
+  {
+    color: '#a804b2',
+    quantity: 5
+  },
+  {
+    color: '#ee22fa',
+    quantity: 1
+  },
+  {
+    color: '#a43540',
+    quantity: 1
+  },
+  {
+    color: '#da4453',
+    quantity: 1
+  },
+  {
+    color: '#ed5565',
+    quantity: 3
+  },
+  {
+    color: '#fff',
+    quantity: 67
+  },
+  {
+    color: '#FFF',
+    quantity: 5
+  },
+  {
+    color: '#ffffff',
+    quantity: 14
+  },
+  {
+    color: '#FFFFFF',
+    quantity: 4
+  },
+  {
+    color: 'white',
+    quantity: 44
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.9)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.8)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.5)',
+    quantity: 4
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.4)',
+    quantity: 1
+  },
+  {
+    color: '#FAFAFA',
+    quantity: 1
+  },
+  {
+    color: '#f7f7f7',
+    quantity: 1
+  },
+  {
+    color: '#f5f5f5',
+    quantity: 5
+  },
+  {
+    color: '#efefef',
+    quantity: 4
+  },
+  {
+    color: '#F0F0F0',
+    quantity: 2
+  },
+  {
+    color: '#f0f0f0',
+    quantity: 2
+  },
+  {
+    color: '#eee',
+    quantity: 17
+  },
+  {
+    color: '#eeeeee',
+    quantity: 21
+  },
+  {
+    color: '#EBEBEB',
+    quantity: 2
+  },
+  {
+    color: '#E5E5E5',
+    quantity: 1
+  },
+  {
+    color: '#e5e5e5',
+    quantity: 4
+  },
+  {
+    color: 'rgba(230, 230, 230, 0.8)',
+    quantity: 1
+  },
+  {
+    color: '#e2e2e2',
+    quantity: 1
+  },
+  {
+    color: '#e3e3e3',
+    quantity: 1
+  },
+  {
+    color: '#e4e4e4',
+    quantity: 2
+  },
+  {
+    color: '#ddd',
+    quantity: 25
+  },
+  {
+    color: '#DDD',
+    quantity: 3
+  },
+  {
+    color: '#dedede',
+    quantity: 6
+  },
+  {
+    color: '#D9D9D9',
+    quantity: 2
+  },
+  {
+    color: '#d9d9d9',
+    quantity: 3
+  },
+  {
+    color: '#d5d5d5',
+    quantity: 4
+  },
+  {
+    color: '#D3D3D3',
+    quantity: 1
+  },
+  {
+    color: 'lightgray',
+    quantity: 2
+  },
+  {
+    color: '#ccc',
+    quantity: 20
+  },
+  {
+    color: '#CCC',
+    quantity: 1
+  },
+  {
+    color: '#cccccc',
+    quantity: 14
+  },
+  {
+    color: '#CCCCCC',
+    quantity: 1
+  },
+  {
+    color: 'rgba(204, 204, 204, 0.2)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(200, 200, 200, 0.8)',
+    quantity: 1
+  },
+  {
+    color: '#c3c3c3',
+    quantity: 1
+  },
+  {
+    color: '#bebebe',
+    quantity: 1
+  },
+  {
+    color: 'silver',
+    quantity: 4
+  },
+  {
+    color: '#BBB',
+    quantity: 6
+  },
+  {
+    color: '#bbbbbb',
+    quantity: 2
+  },
+  {
+    color: '#B8B8B8',
+    quantity: 1
+  },
+  {
+    color: '#b3b3b3',
+    quantity: 2
+  },
+  {
+    color: '#aaa',
+    quantity: 14
+  },
+  {
+    color: '#AAA',
+    quantity: 2
+  },
+  {
+    color: '#a9a9a9',
+    quantity: 2
+  },
+  {
+    color: '#9d9d9d',
+    quantity: 2
+  },
+  {
+    color: '#9f9f9f',
+    quantity: 1
+  },
+  {
+    color: '#999',
+    quantity: 15
+  },
+  {
+    color: '#999999',
+    quantity: 7
+  },
+  {
+    color: '#888',
+    quantity: 5
+  },
+  {
+    color: 'gray',
+    quantity: 1
+  },
+  {
+    color: 'grey',
+    quantity: 1
+  },
+  {
+    color: '#7c7c7c',
+    quantity: 2
+  },
+  {
+    color: '#777',
+    quantity: 2
+  },
+  {
+    color: '#777777',
+    quantity: 11
+  },
+  {
+    color: '#666',
+    quantity: 3
+  },
+  {
+    color: '#666666',
+    quantity: 1
+  },
+  {
+    color: '#5e5e5e',
+    quantity: 3
+  },
+  {
+    color: '#595959',
+    quantity: 1
+  },
+  {
+    color: '#545454',
+    quantity: 2
+  },
+  {
+    color: '#555',
+    quantity: 1
+  },
+  {
+    color: '#555555',
+    quantity: 2
+  },
+  {
+    color: '#4c4c4c',
+    quantity: 1
+  },
+  {
+    color: '#444',
+    quantity: 12
+  },
+  {
+    color: '#373737',
+    quantity: 2
+  },
+  {
+    color: '#333',
+    quantity: 11
+  },
+  {
+    color: '#333333',
+    quantity: 1
+  },
+  {
+    color: '#222',
+    quantity: 1
+  },
+  {
+    color: '#161616',
+    quantity: 2
+  },
+  {
+    color: '#030303',
+    quantity: 1
+  },
+  {
+    color: '#000',
+    quantity: 49
+  },
+  {
+    color: '#000000',
+    quantity: 4
+  },
+  {
+    color: 'black',
+    quantity: 10
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.9)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.6)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.5)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.45)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.4)',
+    quantity: 3
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.3)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.25)',
+    quantity: 8
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.2)',
+    quantity: 15
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.15)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.1)',
+    quantity: 14
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.075)',
+    quantity: 4
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.06)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.05)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0)',
+    quantity: 2
+  },
+  {
+    color: 'transparent',
+    quantity: 84
+  }
+];
+
+export const colorsMetisMenuCss = [];
+
+export const colorsOwnCarouselMinCss = [
+  {
+    color: '#000',
+    quantity: 1
+  },
+  {
+    color: 'transparent',
+    quantity: 1
+  }
+];
+
+export const colorsPluginsBundleCss = [
+  {
+    color: '#e9e6e6',
+    quantity: 3
+  },
+  {
+    color: '#c77777',
+    quantity: 2
+  },
+  {
+    color: '#D39494',
+    quantity: 2
+  },
+  {
+    color: '#d39494',
+    quantity: 2
+  },
+  {
+    color: 'rgba(211, 148, 148, 0.5)',
+    quantity: 3
+  },
+  {
+    color: 'rgba(211, 148, 148, 0.3)',
+    quantity: 3
+  },
+  {
+    color: '#f2dede',
+    quantity: 1
+  },
+  {
+    color: '#a92222',
+    quantity: 2
+  },
+  {
+    color: '#be2626',
+    quantity: 4
+  },
+  {
+    color: '#f27474',
+    quantity: 7
+  },
+  {
+    color: '#e60000',
+    quantity: 2
+  },
+  {
+    color: '#a94442',
+    quantity: 2
+  },
+  {
+    color: '#b94a48',
+    quantity: 1
+  },
+  {
+    color: '#d9534f',
+    quantity: 1
+  },
+  {
+    color: '#BD362F',
+    quantity: 1
+  },
+  {
+    color: '#f8bb86',
+    quantity: 1
+  },
+  {
+    color: '#facea8',
+    quantity: 1
+  },
+  {
+    color: '#E8E7E6',
+    quantity: 1
+  },
+  {
+    color: '#f0ad4e',
+    quantity: 1
+  },
+  {
+    color: '#F89406',
+    quantity: 1
+  },
+  {
+    color: '#fdd49a',
+    quantity: 2
+  },
+  {
+    color: '#f90',
+    quantity: 2
+  },
+  {
+    color: '#8a6d3b',
+    quantity: 2
+  },
+  {
+    color: '#815608',
+    quantity: 2
+  },
+  {
+    color: '#bf800c',
+    quantity: 2
+  },
+  {
+    color: '#f1a417',
+    quantity: 2
+  },
+  {
+    color: '#f2aa25',
+    quantity: 1
+  },
+  {
+    color: '#f4b747',
+    quantity: 3
+  },
+  {
+    color: '#f7ca77',
+    quantity: 3
+  },
+  {
+    color: '#b37400',
+    quantity: 2
+  },
+  {
+    color: '#f59e00',
+    quantity: 2
+  },
+  {
+    color: '#ffb733',
+    quantity: 2
+  },
+  {
+    color: '#ffbc42',
+    quantity: 1
+  },
+  {
+    color: '#ffc966',
+    quantity: 4
+  },
+  {
+    color: '#ffdb99',
+    quantity: 3
+  },
+  {
+    color: '#fde19a',
+    quantity: 1
+  },
+  {
+    color: '#fcf8e3',
+    quantity: 1
+  },
+  {
+    color: '#fbf069',
+    quantity: 1
+  },
+  {
+    color: '#fbed50',
+    quantity: 1
+  },
+  {
+    color: '#fdf59a',
+    quantity: 5
+  },
+  {
+    color: '#f8f8f2',
+    quantity: 1
+  },
+  {
+    color: '#ff0',
+    quantity: 2
+  },
+  {
+    color: '#23241f',
+    quantity: 1
+  },
+  {
+    color: '#a5dc86',
+    quantity: 3
+  },
+  {
+    color: 'rgba(165, 220, 134, 0.3)',
+    quantity: 1
+  },
+  {
+    color: '#dff0d8',
+    quantity: 1
+  },
+  {
+    color: '#51A351',
+    quantity: 1
+  },
+  {
+    color: '#5cb85c',
+    quantity: 1
+  },
+  {
+    color: '#008a00',
+    quantity: 2
+  },
+  {
+    color: '#3c763d',
+    quantity: 2
+  },
+  {
+    color: '#20b426',
+    quantity: 5
+  },
+  {
+    color: '#18891d',
+    quantity: 2
+  },
+  {
+    color: '#28a745',
+    quantity: 1
+  },
+  {
+    color: '#869791',
+    quantity: 2
+  },
+  {
+    color: '#3FB8AF',
+    quantity: 1
+  },
+  {
+    color: '#D3E2E2',
+    quantity: 1
+  },
+  {
+    color: '#d3e2e2',
+    quantity: 4
+  },
+  {
+    color: '#2F96B4',
+    quantity: 1
+  },
+  {
+    color: '#5bc0de',
+    quantity: 1
+  },
+  {
+    color: '#add8e6',
+    quantity: 2
+  },
+  {
+    color: '#9de0f6',
+    quantity: 1
+  },
+  {
+    color: '#3fc3ee',
+    quantity: 1
+  },
+  {
+    color: 'deepskyblue',
+    quantity: 1
+  },
+  {
+    color: '#87adbd',
+    quantity: 1
+  },
+  {
+    color: '#c9dae1',
+    quantity: 1
+  },
+  {
+    color: '#ebf4f8',
+    quantity: 1
+  },
+  {
+    color: '#c4e6f5',
+    quantity: 2
+  },
+  {
+    color: '#b4dbed',
+    quantity: 1
+  },
+  {
+    color: 'rgba(8, 157, 227, 0.7)',
+    quantity: 1
+  },
+  {
+    color: '#4b88a6',
+    quantity: 2
+  },
+  {
+    color: '#73a6c0',
+    quantity: 2
+  },
+  {
+    color: '#9dc1d3',
+    quantity: 2
+  },
+  {
+    color: '#a8c8d8',
+    quantity: 1
+  },
+  {
+    color: '#e4eef3',
+    quantity: 3
+  },
+  {
+    color: '#31708f',
+    quantity: 2
+  },
+  {
+    color: '#298fc2',
+    quantity: 2
+  },
+  {
+    color: '#85c5e5',
+    quantity: 2
+  },
+  {
+    color: '#91cbe8',
+    quantity: 1
+  },
+  {
+    color: '#afd9ee',
+    quantity: 4
+  },
+  {
+    color: '#d9edf7',
+    quantity: 4
+  },
+  {
+    color: '#52addb',
+    quantity: 2
+  },
+  {
+    color: '#85c8ea',
+    quantity: 2
+  },
+  {
+    color: '#0088cc',
+    quantity: 4
+  },
+  {
+    color: '#08c',
+    quantity: 1
+  },
+  {
+    color: '#c1d7e3',
+    quantity: 4
+  },
+  {
+    color: '#098ddf',
+    quantity: 1
+  },
+  {
+    color: '#87cefa',
+    quantity: 1
+  },
+  {
+    color: '#122b40',
+    quantity: 4
+  },
+  {
+    color: '#66afe9',
+    quantity: 2
+  },
+  {
+    color: 'rgba(102, 175, 233, 0.6)',
+    quantity: 4
+  },
+  {
+    color: '#2e6da4',
+    quantity: 4
+  },
+  {
+    color: '#3071a9',
+    quantity: 2
+  },
+  {
+    color: '#337ab7',
+    quantity: 5
+  },
+  {
+    color: '#357ebd',
+    quantity: 1
+  },
+  {
+    color: '#428bca',
+    quantity: 9
+  },
+  {
+    color: '#92bce0',
+    quantity: 1
+  },
+  {
+    color: 'rgba(66, 139, 202, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#204d74',
+    quantity: 6
+  },
+  {
+    color: '#286090',
+    quantity: 7
+  },
+  {
+    color: '#b9d4ec',
+    quantity: 2
+  },
+  {
+    color: '#006dcc',
+    quantity: 2
+  },
+  {
+    color: '#3085d6',
+    quantity: 4
+  },
+  {
+    color: '#B4B9BE',
+    quantity: 2
+  },
+  {
+    color: '#919BA5',
+    quantity: 2
+  },
+  {
+    color: '#919ba5',
+    quantity: 2
+  },
+  {
+    color: 'rgba(50, 100, 150, 0.4)',
+    quantity: 5
+  },
+  {
+    color: '#06c',
+    quantity: 6
+  },
+  {
+    color: '#dee4ec',
+    quantity: 1
+  },
+  {
+    color: 'rgba(222, 228, 236, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#006cfa',
+    quantity: 4
+  },
+  {
+    color: '#c3c7cd',
+    quantity: 1
+  },
+  {
+    color: '#939ba7',
+    quantity: 1
+  },
+  {
+    color: '#cbcfd5',
+    quantity: 1
+  },
+  {
+    color: '#e0e4ea',
+    quantity: 2
+  },
+  {
+    color: '#f0f6ff',
+    quantity: 2
+  },
+  {
+    color: '#3875d7',
+    quantity: 1
+  },
+  {
+    color: '#5897fb',
+    quantity: 6
+  },
+  {
+    color: '#e1e4e9',
+    quantity: 4
+  },
+  {
+    color: '#7685a2',
+    quantity: 2
+  },
+  {
+    color: '#a3adc1',
+    quantity: 5
+  },
+  {
+    color: '#d1d6e0',
+    quantity: 4
+  },
+  {
+    color: 'rgba(209, 214, 224, 0.5)',
+    quantity: 1
+  },
+  {
+    color: '#002a80',
+    quantity: 2
+  },
+  {
+    color: '#003399',
+    quantity: 2
+  },
+  {
+    color: '#0044cc',
+    quantity: 10
+  },
+  {
+    color: '#48536a',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 255, 0.3)',
+    quantity: 2
+  },
+  {
+    color: '#93f',
+    quantity: 2
+  },
+  {
+    color: '#a804b2',
+    quantity: 5
+  },
+  {
+    color: '#ee22fa',
+    quantity: 1
+  },
+  {
+    color: '#a43540',
+    quantity: 1
+  },
+  {
+    color: '#da4453',
+    quantity: 1
+  },
+  {
+    color: '#ed5565',
+    quantity: 3
+  },
+  {
+    color: '#fff',
+    quantity: 67
+  },
+  {
+    color: '#FFF',
+    quantity: 7
+  },
+  {
+    color: '#ffffff',
+    quantity: 14
+  },
+  {
+    color: '#FFFFFF',
+    quantity: 4
+  },
+  {
+    color: 'white',
+    quantity: 44
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.9)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.8)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.5)',
+    quantity: 4
+  },
+  {
+    color: 'rgba(255, 255, 255, 0.4)',
+    quantity: 1
+  },
+  {
+    color: '#FAFAFA',
+    quantity: 1
+  },
+  {
+    color: '#f7f7f7',
+    quantity: 1
+  },
+  {
+    color: '#f5f5f5',
+    quantity: 5
+  },
+  {
+    color: '#efefef',
+    quantity: 4
+  },
+  {
+    color: '#F0F0F0',
+    quantity: 2
+  },
+  {
+    color: '#f0f0f0',
+    quantity: 2
+  },
+  {
+    color: '#eee',
+    quantity: 17
+  },
+  {
+    color: '#eeeeee',
+    quantity: 21
+  },
+  {
+    color: '#EBEBEB',
+    quantity: 2
+  },
+  {
+    color: '#E5E5E5',
+    quantity: 1
+  },
+  {
+    color: '#e5e5e5',
+    quantity: 4
+  },
+  {
+    color: 'rgba(230, 230, 230, 0.8)',
+    quantity: 1
+  },
+  {
+    color: '#e2e2e2',
+    quantity: 1
+  },
+  {
+    color: '#e3e3e3',
+    quantity: 1
+  },
+  {
+    color: '#e4e4e4',
+    quantity: 2
+  },
+  {
+    color: '#ddd',
+    quantity: 25
+  },
+  {
+    color: '#DDD',
+    quantity: 3
+  },
+  {
+    color: '#dedede',
+    quantity: 6
+  },
+  {
+    color: '#D9D9D9',
+    quantity: 2
+  },
+  {
+    color: '#d9d9d9',
+    quantity: 3
+  },
+  {
+    color: '#d5d5d5',
+    quantity: 4
+  },
+  {
+    color: '#D6D6D6',
+    quantity: 2
+  },
+  {
+    color: '#D3D3D3',
+    quantity: 1
+  },
+  {
+    color: 'lightgray',
+    quantity: 1
+  },
+  {
+    color: '#ccc',
+    quantity: 20
+  },
+  {
+    color: '#CCC',
+    quantity: 1
+  },
+  {
+    color: '#cccccc',
+    quantity: 14
+  },
+  {
+    color: '#CCCCCC',
+    quantity: 1
+  },
+  {
+    color: 'rgba(204, 204, 204, 0.2)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(200, 200, 200, 0.8)',
+    quantity: 1
+  },
+  {
+    color: '#c3c3c3',
+    quantity: 1
+  },
+  {
+    color: '#bebebe',
+    quantity: 1
+  },
+  {
+    color: 'silver',
+    quantity: 4
+  },
+  {
+    color: '#BBB',
+    quantity: 6
+  },
+  {
+    color: '#bbbbbb',
+    quantity: 2
+  },
+  {
+    color: '#B8B8B8',
+    quantity: 1
+  },
+  {
+    color: '#b3b3b3',
+    quantity: 2
+  },
+  {
+    color: '#aaa',
+    quantity: 14
+  },
+  {
+    color: '#AAA',
+    quantity: 2
+  },
+  {
+    color: '#a9a9a9',
+    quantity: 2
+  },
+  {
+    color: '#9d9d9d',
+    quantity: 2
+  },
+  {
+    color: '#9f9f9f',
+    quantity: 1
+  },
+  {
+    color: '#999',
+    quantity: 15
+  },
+  {
+    color: '#999999',
+    quantity: 7
+  },
+  {
+    color: '#888',
+    quantity: 5
+  },
+  {
+    color: 'gray',
+    quantity: 1
+  },
+  {
+    color: 'grey',
+    quantity: 1
+  },
+  {
+    color: '#7c7c7c',
+    quantity: 2
+  },
+  {
+    color: '#777',
+    quantity: 2
+  },
+  {
+    color: '#777777',
+    quantity: 11
+  },
+  {
+    color: '#666',
+    quantity: 3
+  },
+  {
+    color: '#666666',
+    quantity: 1
+  },
+  {
+    color: '#5e5e5e',
+    quantity: 3
+  },
+  {
+    color: '#595959',
+    quantity: 1
+  },
+  {
+    color: '#545454',
+    quantity: 2
+  },
+  {
+    color: '#555',
+    quantity: 1
+  },
+  {
+    color: '#555555',
+    quantity: 2
+  },
+  {
+    color: '#4c4c4c',
+    quantity: 1
+  },
+  {
+    color: '#444',
+    quantity: 12
+  },
+  {
+    color: '#373737',
+    quantity: 2
+  },
+  {
+    color: '#333',
+    quantity: 11
+  },
+  {
+    color: '#333333',
+    quantity: 1
+  },
+  {
+    color: '#222',
+    quantity: 1
+  },
+  {
+    color: '#161616',
+    quantity: 2
+  },
+  {
+    color: '#030303',
+    quantity: 1
+  },
+  {
+    color: '#000',
+    quantity: 50
+  },
+  {
+    color: '#000000',
+    quantity: 4
+  },
+  {
+    color: 'black',
+    quantity: 10
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.9)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.6)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.5)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.45)',
+    quantity: 1
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.4)',
+    quantity: 3
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.3)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.25)',
+    quantity: 8
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.2)',
+    quantity: 15
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.15)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.1)',
+    quantity: 14
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.075)',
+    quantity: 4
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.06)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0.05)',
+    quantity: 2
+  },
+  {
+    color: 'rgba(0, 0, 0, 0)',
+    quantity: 2
+  },
+  {
+    color: 'transparent',
+    quantity: 88
+  }
+];
