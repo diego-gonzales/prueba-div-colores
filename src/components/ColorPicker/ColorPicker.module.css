@@ -1,0 +1,11 @@
+.colorPicker {
+  margin: 1rem 0;
+}
+
+p > span {
+  font-weight: bold;
+}
+
+.colorValues {
+  text-align: center;
+}

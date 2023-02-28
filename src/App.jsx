@@ -1,4 +1,6 @@
 import "./App.css";
+import ColorPicker from "./components/ColorPicker/ColorPicker";
+import Paleta from "./components/Paleta/Paleta";
 import {
   colorsBootstrapMinCss,
   colorsDatatablesBundleCss,
@@ -15,7 +17,6 @@ import {
   colorsThemifyIconsCss,
   colorsTypographyCss
 } from "./utils/projectColorsProgreso";
-import Paleta from "./components/Paleta";
 import {
   colorsAnimateTSF,
   colorsDemoTSF,
@@ -28,7 +29,10 @@ import {
 function App() {
   return (
     <>
-      <header className="header">
+      <div>
+        <ColorPicker />
+      </div>
+      {/* <header className="header">
         <h1>Colores por archivo CSS</h1>
       </header>
       <main>
@@ -85,7 +89,7 @@ function App() {
           <Paleta cssFileName="util.css" colors={colorsUtilTSF} />
           <Paleta cssFileName="styles.css" colors={colorsStylesTSF} />
         </section>
-      </main>
+      </main> */}
     </>
   );
 }
